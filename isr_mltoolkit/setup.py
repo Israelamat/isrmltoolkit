@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='isrmltoolkit',  # Nombre que usará pip install
-    version='0.1.4', 
+    version='0.1.5', 
     author='Isra',
     author_email='ismael@email.com',
     description='Funciones y utilidades útiles para proyectos de Machine Learning',
