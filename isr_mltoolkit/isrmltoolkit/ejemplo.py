@@ -1,4 +1,4 @@
-from describe import describe
+from .describe import describe
 
 print("isr-mltookit está instalado y funcionando")
 
