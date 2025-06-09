@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='isr_mltookit',  # Nombre que usará pip install
-    version='0.1.1',
+    name='isrmltoolkit',  # Nombre que usará pip install
+    version='0.1.4', 
     author='Isra',
     author_email='ismael@email.com',
     description='Funciones y utilidades útiles para proyectos de Machine Learning',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Israelamat/pip_install',  # Pon la URL de tu repo o elimínala si no tienes
+    url='https://github.com/Israelamat/pip_install',  # Actualízalo si es necesario
     packages=find_packages(),
     install_requires=[
         'pandas',

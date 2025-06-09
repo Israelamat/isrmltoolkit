@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-isr_mltookit.egg-info/PKG-INFO
-isr_mltookit.egg-info/SOURCES.txt
-isr_mltookit.egg-info/dependency_links.txt
-isr_mltookit.egg-info/requires.txt
-isr_mltookit.egg-info/top_level.txt
