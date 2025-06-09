@@ -2,13 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='isrmltoolkit',
-    version='0.1.10',
+    version='0.1.12',
     packages=find_packages(),  # <--- Esto encuentra automáticamente isrmltoolkit/
     install_requires=[
-        'pandas',
-        'matplotlib',
-        'seaborn',
-        'scikit-learn'
+        'pandas>=1.0.0',
+        'scikit-learn>=0.24',
+        'scipy>=1.5',
+        'matplotlib>=3.0',
+        'seaborn>=0.10'
     ],
     author='Isra',
     author_email='ismael@email.com',
