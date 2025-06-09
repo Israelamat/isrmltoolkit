@@ -1,0 +1,2 @@
+recursive-include isrmltoolkit *.py
+include README.md
